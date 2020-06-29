@@ -6,3 +6,5 @@ tictac == Counter.
 Test1.
 
 Test2.
+
+time == Clock.
